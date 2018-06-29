@@ -1,0 +1,5 @@
+node_modules/*
+!node_modules/react-native-grid-view
+!node_modules/react-native-audio
+!node_modules/react-native-swipeout
+!node_modules/react-native-item-checkbox
